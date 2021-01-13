@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("download\ \(9\).jpg");
+    background-size: cover;
+}
+
+#images_ {
+    height: 530px;
+    width: 530px;
+}
+
+#b1 {
+    height: 20px;
+}
